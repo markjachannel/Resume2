@@ -1,0 +1,137 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+<meta charset="UTF-8">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<title>Mark's Online Resume</title>  
+  
+<style>  
+    *{  
+        margin:0;  
+        padding:0;  
+        box-sizing:border-box;  
+        font-family:Arial, Helvetica, sans-serif;  
+    }  
+  
+    body{  
+        background:#f4f7fa;  
+        color:#333;  
+        line-height:1.6;  
+    }  
+  
+    .container{  
+        max-width:900px;  
+        margin:40px auto;  
+        background:white;  
+        border-radius:15px;  
+        overflow:hidden;  
+        box-shadow:0 10px 25px rgba(0,0,0,.1);  
+    }  
+  
+    header{  
+        background:#1f4e79;  
+        color:white;  
+        text-align:center;  
+        padding:40px;  
+    }  
+  
+    header h1{  
+        font-size:36px;  
+        margin-bottom:10px;  
+    }  
+  
+    header p{  
+        font-size:18px;  
+    }  
+  
+    section{  
+        padding:30px;  
+        border-bottom:1px solid #eee;  
+    }  
+  
+    section:last-child{  
+        border-bottom:none;  
+    }  
+  
+    h2{  
+        color:#1f4e79;  
+        margin-bottom:15px;  
+    }  
+  
+    ul{  
+        padding-left:20px;  
+    }  
+  
+    footer{  
+        text-align:center;  
+        padding:20px;  
+        background:#f0f0f0;  
+        font-size:14px;  
+    }  
+</style>  
+  
+</head>  
+<body>  
+  
+<div class="container">  
+  
+<header>  
+    <h1>Mark</h1>  
+    <p>Online Resume</p>  
+</header>  
+  
+<section>  
+    <h2>Name</h2>  
+    <p>Mark</p>  
+</section>  
+  
+<section>  
+    <h2>Address</h2>  
+    <p>Thailand</p>  
+</section>  
+  
+<section>  
+    <h2>Profile Statement</h2>  
+    <p>  
+        I am a university student who enjoys digital marketing, graphic design,  
+        and content creation. I like learning new technologies, especially AI  
+        tools, and I am always eager to improve my creative and communication skills.  
+    </p>  
+</section>  
+  
+<section>  
+    <h2>Work Experience</h2>  
+    <ul>  
+        <li>Created social media content and marketing designs using AI tools.</li>  
+        <li>Designed promotional posters and product artwork for class projects.</li>  
+        <li>Worked on digital branding and online marketing assignments.</li>  
+    </ul>  
+</section>  
+  
+<section>  
+    <h2>Education</h2>  
+    <ul>  
+        <li>University Student (Current)</li>  
+        <li>Studying Digital Media, Marketing, and Web Development</li>  
+    </ul>  
+</section>  
+  
+<section>  
+    <h2>Interests & Hobbies</h2>  
+    <ul>  
+        <li>Graphic Design</li>  
+        <li>Digital Marketing</li>  
+        <li>AI Technology</li>  
+        <li>Photography</li>  
+        <li>Listening to Music</li>  
+    </ul>  
+</section>  
+  
+<footer>  
+    © 2026 Mark | Online Resume  
+</footer>  
+  
+</div>  
+  
+</body>  
+</html>  
